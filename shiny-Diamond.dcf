@@ -1,0 +1,12 @@
+name: shiny-Diamond
+title: shiny-Diamond
+username:
+account: pavan-kartheek
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2630576
+bundleId: 3459131
+url: https://pavan-kartheek.shinyapps.io/shiny-Diamond/
+when: 1596202014.07066
+asMultiple: FALSE
+asStatic: FALSE
